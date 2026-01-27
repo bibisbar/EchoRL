@@ -6,11 +6,10 @@
 </h1>
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yafuly)
 
 </div>
 
----
+
 
 # 📚 Overview
 - 🎉 [News](#news)  
